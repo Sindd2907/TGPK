@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/etssoft/web/demo2.ets-demos.com/public_html/ebusinessdev/admin0benrj" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a14fa2166ed698f3d04061f57e5ab9b9">
+        <source>loading</source>
+        <target>loading</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
